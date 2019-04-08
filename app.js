@@ -12,4 +12,4 @@ console.log('Oi ' + nome + '!');
 var comida = readlineSync.question('Qual sua comida favorita? ');
 console.log('Oh, ' + nome + ' ama ' + comida + '!');
 
-console.log("teste123");
+console.log("teste, agora vai!");
